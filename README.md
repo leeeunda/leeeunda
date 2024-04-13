@@ -1,4 +1,5 @@
-### Hi there 👋 I'm leeeunda
+## Hi there 👋 I'm leeeunda
+Education : at KyungHee University Department of Computer Engineering
 
 <!--
 **leeeunda/leeeunda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
