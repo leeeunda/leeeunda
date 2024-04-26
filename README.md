@@ -18,18 +18,19 @@ Here are some ideas to get you started:
 
 ## Project
 
-- 경희대학교 컴퓨터공학부 프로젝트 🏆1위 <Mumage> : 서버개발
-- 클리퍼 연합프로젝트 🏆대상 <Go집> 기획 및 우수 아이디어 선정& 서버리드 
-- KHUDA 토이 프로젝트 <다변량 데이터 분석을 통한 기대수명 예측 시스템>
-- 구름톤 univ 2기 iOS 앱 <자니..?> 아이디어 기획 및 팀장, 백엔드 
+Kyung Hee University Department of Computer Engineering Project 🏆1st Place <Mumage>: Server Development
+Clipper Union Project 🏆Grand Prize <Go집> Planning and Excellent Idea Selection & Server Lead
+KHUDA Toy Project <Life Expectancy Prediction System through Multivariate Data Analysis>
+9ooroomton Univ 2nd Generation iOS App <자니..?> Idea Planning and Team Leader, Backend
 
 ## Activity
-- 고양시 대학생 멘토단 **|** **2022.03~2022.12**
-- 고양시 청소년진로지원단 아띠  **| 2022.03~2022.12**
-- 연합IT동아리 Clipper 백엔드 Spring 트랙 **| 2023.09~**
-- 경희대학교 AI & 데이터 분석 동아리 KUDA **| 2024.01~**
-- 구름톤 univ 2기 백엔드 파트원 **| 2024.02~**
-- UMC 6기 Server Part 스터디장 **| 2024.03~**
-- 경희대학교 SW나눔봉사단 **| 2024.03~**
-- 경희대학교 SW멤버십 **| 2024.04~**
-- 경희대학교 SW아너십 **| 2024.04~**
+
+Goyang-Si College Student Mentor Group | March 2022 - December 2022
+Goyang-Si Youth Career Support Group Atty | March 2022 - December 2022
+Union IT Club Clipper Backend Spring Track | September 2023 - Present
+Kyung Hee University AI & Data Analysis Club KUDA | January 2024 - Present
+9ooroomton Univ 2nd Generation Backend Participant | February 2024 - Present
+UMC 6th Generation Server Part Study Leader | March 2024 - Present
+Kyung Hee University SW Volunteer Group | March 2024 - Present
+Kyung Hee University SW Membership | April 2024 - Present
+Kyung Hee University SW Ownership | April 2024 - Present
