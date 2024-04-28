@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - Kyung Hee University Department of Computer Engineering Project 🏆1st Place <Mumage>: Server Development
 - Clipper Union Project 🏆Grand Prize <Go집> Planning and Excellent Idea Selection & Server Lead
-- KHUDA Toy Project <Life Expectancy Prediction System through Multivariate Data Analysis>
+- KHUDA Machine Learning Toy Project <Life Expectancy Prediction System through Multivariate Data Analysis>
 - 9ooroomton Univ 2nd Generation iOS App <자니..?> Idea Planning and Team Leader, Backend
 
 ## Activity
