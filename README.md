@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - KyungHee University Hackathon 🏆The Top Awards <CiFarm> Team Leader & Design
 - KHUDA Machine Learning Toy Project <Life Expectancy Prediction System through Data Analysis>
 - 9ooroomton Univ 2nd Generation iOS App <자니..?> Idea Planning and Team Leader, Backend
+- KHUDA Project <ChecKhuMate>
 
 ## Activity
 
