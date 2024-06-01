@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - Kyung Hee University Department of Computer Engineering Project 🏆1st Place <Mumage>: Server Development
 - Clipper Union Project 🏆Grand Prize <Go집> Planning and Excellent Idea Selection & Server Lead
 - KyungHee University Hackathon 🏆The Top Awards <CiFarm> Team Leader & Design
+- KyungHee Startup Idea Contest 🏆Creativity Award
 - KHUDA Machine Learning Toy Project <Life Expectancy Prediction System through Data Analysis>
 - 9ooroomton Univ 2nd Generation iOS App <자니..?> Idea Planning and Team Leader, Backend
 - KHUDA RecSys Project <ChecKhuMate> University Roommate Recomment Project FrontEnd, BackEnd
