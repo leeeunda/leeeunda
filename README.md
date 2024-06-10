@@ -1,4 +1,4 @@
-## Hi there 👋 I'm leeeunda
+## Hi there 👋 I'm leedaeun
 Education at KyungHee University Department of Computer Engineering
 
 <!--
