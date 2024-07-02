@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 
 ## Activity
 
-- Goyang-Si College Student Mentor Group | 03/2022~12/2022
-- Goyang-Si Youth Career Support Team Atti | 03/2022~12/2022
 - Clipper IT Union Club Backend Spring Track | 09/2023~
 - Kyung Hee University AI & Data Analysis Club KUDA | 01/2024~
 - 9ooroomton Univ 2nd Gen Backend Member | 02/2024~
