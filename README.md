@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ..
 -->
 
+## Currently I'm Working On..
+- 9ooroomton Univ 3nd Club leader
+- Make domestic travel special, Boletto
+- Intimate connections between family, Nuzzle
+  
 ## Project
 
 - Kyung Hee University Department of Computer Engineering Project 🏆1st Place <Mumage>: Server Development
