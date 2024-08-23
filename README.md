@@ -36,8 +36,3 @@ Here are some ideas to get you started:
 - Kyung Hee University SW Volunteer Service Group | 03/2024~
 - Kyung Hee University SW Membership | 04/2024~
 - Kyung Hee University SW OwnerShip | 04/2024~
-
-### Currently I'm Working On..
-- 9ooroomton Univ 3nd Club leader
-- Make domestic travel special, Boletto
-- Intimate connections between family, Nuzzle
