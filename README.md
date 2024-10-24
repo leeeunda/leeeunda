@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm leedaeun
-👩🏻‍💻 I'm currently working on 🌊BlockWaveLabs <br>
+👩🏻‍💻 I'm currently working on BlockWaveLabs <br>
 🏫 I'm a student in Department of Computer Engineering <br>
 📝 I'm interesting at Server Development <br>
 
