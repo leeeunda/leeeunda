@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm leedaeun
-- 👩🏻‍💻 I'm currently working on 🌊BlockWaveLabs
-- 🏫 I'm a student in Department of Computer Engineering
-- 📝 I'm interesting at Server Development
+👩🏻‍💻 I'm currently working on 🌊BlockWaveLabs
+🏫 I'm a student in Department of Computer Engineering
+📝 I'm interesting at Server Development
 
 <!--
 **leeeunda/leeeunda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
