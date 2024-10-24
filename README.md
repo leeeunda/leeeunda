@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm leedaeun
 - 👩🏻‍💻 I'm currently working on 🌊BlockWaveLabs
-- 🏫 I'm a student in Department of Computer Engineering
+- 🏫 I'm a student in Department of Computer Engineering
 - 📝 I'm interesting at Server Development
 
 <!--
