@@ -51,6 +51,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/user-attachments/assets/4fc90b92-ded2-4273-a7e9-9863372a4b3d" width="50" height="50" alt="amazonwebservices-color" />
   <img src="https://github.com/user-attachments/assets/3cfc0c7e-262f-47fd-b107-057e519b0bae" width="50" height="50" alt="graphql-color" />
   <img src="https://github.com/user-attachments/assets/cbfda8bc-1a30-4307-80af-7ff6a4b6ca34" width="50" height="50" alt="graphql-color" />
+</div>
+
 <br>
 
 <a href="https://github.com/devxb/gitanimals">
