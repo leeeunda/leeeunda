@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/user-attachments/assets/30b5543a-8713-4d9c-8d78-c4158c3a20e4" width="50" height="50" alt="gradle-color" />
   <img src="https://github.com/user-attachments/assets/2228dd88-45c8-417f-9704-d3ef3a04eb51" width="50" height="50" alt="awsamplify-color" />
   <img src="https://github.com/user-attachments/assets/32464a38-2848-4f60-8b94-a274a72b4e99" width="50" height="50" alt="prometheus-color" />
-  <img src="https://github.com/user-attachments/assets/09979158-5ce2-4189-9595-fb0c88e9c22f" width="50" height="50" alt="githubactions-color" />
+  <img src="https://github.com/user-attachments/assets/a85195df-d7a1-4c8a-91d4-0cbb105cc8a6" width="50" height="50" alt="grafana-color" />
 </div>
 
 <br> <br>
