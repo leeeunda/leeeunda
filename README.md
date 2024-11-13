@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 ## 🏃‍♀️‍➡️ Activity
 
-- **Clipper**, IT Union Club Backend Spring Track | 09/2023~02/2024
-- **KUDA**, Kyung Hee University AI & Data Analysis Club | 01/2024~06/2024
+- **Clipper** IT Union Club Backend Spring Track | 09/2023~02/2024
+- **KUDA** Kyung Hee University AI & Data Analysis Club | 01/2024~06/2024
 - **9ooroomton Univ** 3nd Club leader, 2nd Gen Backend Member | 02/2024~11/2024
 - **UMC** 6th Server Part Study Leader | 03/2024~08/2024
 - **SW Volunteer Service Group** in Kyung Hee University | 03/2024~
