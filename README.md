@@ -38,9 +38,6 @@ Here are some ideas to get you started:
 - Kyung Hee University SW Membership | 04/2024~
 - Kyung Hee University SW OwnerShip | 04/2024~
 
-## Things I have experienced
-![AWS-Light](https://github.com/user-attachments/assets/de020de6-34de-4cca-8f7c-64a8aa6f8e7a)
-
 
 <a href="https://github.com/devxb/gitanimals">
 <img
