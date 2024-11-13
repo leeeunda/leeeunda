@@ -39,16 +39,19 @@ Here are some ideas to get you started:
 - Kyung Hee University SW OwnerShip | 04/2024~
 
 ## Things I have Experienced
-![spring-color](https://github.com/user-attachments/assets/a70be2b8-36f7-4f4f-a402-d0e4bd2c107d)
-![springboot-color](https://github.com/user-attachments/assets/338af49b-efca-454d-bbd6-f8fee3e66536)
-![docker-color](https://github.com/user-attachments/assets/736a0379-8215-49e7-ae6b-3528b8b50dbe)
-![typescript-color](https://github.com/user-attachments/assets/610f0d7b-1c33-4c15-ab76-c4783e10c072)
-![nodedotjs-color](https://github.com/user-attachments/assets/1094fb42-ab6b-498e-b1d3-c1331fe620e2)
-![kubernetes-color](https://github.com/user-attachments/assets/945c7eb7-f43e-4b05-96f2-45a42bc824eb)
-![redis-color](https://github.com/user-attachments/assets/89b88581-eaea-4678-8f11-f4a0940b73c8)
-![graphql-color](https://github.com/user-attachments/assets/64b10fef-be5c-494a-ad35-ac7f57ac4874)
-![amazonwebservices-color](https://github.com/user-attachments/assets/4fc90b92-ded2-4273-a7e9-9863372a4b3d)
-![graphql-color](https://github.com/user-attachments/assets/7bccded5-53c3-4650-89dd-ea47d4947ca7)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/a70be2b8-36f7-4f4f-a402-d0e4bd2c107d" width="100" height="100" alt="spring-color" />
+  <img src="https://github.com/user-attachments/assets/338af49b-efca-454d-bbd6-f8fee3e66536" width="100" height="100" alt="springboot-color" />
+  <img src="https://github.com/user-attachments/assets/736a0379-8215-49e7-ae6b-3528b8b50dbe" width="100" height="100" alt="docker-color" />
+  <img src="https://github.com/user-attachments/assets/610f0d7b-1c33-4c15-ab76-c4783e10c072" width="100" height="100" alt="typescript-color" />
+  <img src="https://github.com/user-attachments/assets/1094fb42-ab6b-498e-b1d3-c1331fe620e2" width="100" height="100" alt="nodedotjs-color" />
+  <img src="https://github.com/user-attachments/assets/945c7eb7-f43e-4b05-96f2-45a42bc824eb" width="100" height="100" alt="kubernetes-color" />
+  <img src="https://github.com/user-attachments/assets/89b88581-eaea-4678-8f11-f4a0940b73c8" width="100" height="100" alt="redis-color" />
+  <img src="https://github.com/user-attachments/assets/64b10fef-be5c-494a-ad35-ac7f57ac4874" width="100" height="100" alt="graphql-color" />
+  <img src="https://github.com/user-attachments/assets/4fc90b92-ded2-4273-a7e9-9863372a4b3d" width="100" height="100" alt="amazonwebservices-color" />
+  <img src="https://github.com/user-attachments/assets/7bccded5-53c3-4650-89dd-ea47d4947ca7" width="100" height="100" alt="graphql-color" />
+</div>
+
 
 
 
