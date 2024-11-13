@@ -52,8 +52,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/user-attachments/assets/7bccded5-53c3-4650-89dd-ea47d4947ca7" width="100" height="100" alt="graphql-color" />
 </div>
 
-
-
+<br>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
