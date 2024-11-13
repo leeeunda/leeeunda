@@ -49,7 +49,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/user-attachments/assets/89b88581-eaea-4678-8f11-f4a0940b73c8" width="50" height="50" alt="redis-color" />
   <img src="https://github.com/user-attachments/assets/64b10fef-be5c-494a-ad35-ac7f57ac4874" width="50" height="50" alt="graphql-color" />
   <img src="https://github.com/user-attachments/assets/4fc90b92-ded2-4273-a7e9-9863372a4b3d" width="50" height="50" alt="amazonwebservices-color" />
-  <img src="https://github.com/user-attachments/assets/7bccded5-53c3-4650-89dd-ea47d4947ca7" width="50" height="50" alt="graphql-color" />
   <img src="https://github.com/user-attachments/assets/4d1e9483-2a29-4cdf-81aa-eb947d67f0f1" width="50" height="50" alt="githubactions-color" />
   <img src="https://github.com/user-attachments/assets/30b5543a-8713-4d9c-8d78-c4158c3a20e4" width="50" height="50" alt="gradle-color" />
   <img src="https://github.com/user-attachments/assets/2228dd88-45c8-417f-9704-d3ef3a04eb51" width="50" height="50" alt="awsamplify-color" />
@@ -57,7 +56,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/user-attachments/assets/09979158-5ce2-4189-9595-fb0c88e9c22f" width="50" height="50" alt="githubactions-color" />
 </div>
 
-<br>
+<br> <br>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
