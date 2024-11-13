@@ -1,4 +1,4 @@
-## Hi there 👋 I'm leedaeun
+# Hi there 👋 I'm leedaeun
 🏫 I'm a student in Department of Computer Engineering <br>
 👩🏻‍💻 I'm currently working on BlockWaveLabs As a Server Developer <br>
 📝 I'm interesting at Server Development & InfraStructure <br>
