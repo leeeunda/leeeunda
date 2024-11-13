@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ..
 -->
   
-## Project
+##  Project
 
 - Kyung Hee University Department of Computer Engineering Project 🏆1st Place <Mumage>: Server Development
 - Clipper Union Project 🏆Grand Prize <Go집> Planning and Excellent Idea Selection & Server Lead
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 9ooroomton Univ 2nd Generation iOS App <자니..?> Idea Planning and Team Leader, Backend
 - KHUDA RecSys Project <ChecKhuMate> University Roommate Recomment Project FrontEnd, BackEnd
 
-## Activity
+## 🏃‍♀️‍➡️ Activity
 
 - Clipper IT Union Club Backend Spring Track | 09/2023~02/2024
 - Kyung Hee University AI & Data Analysis Club KUDA | 01/2024~06/2024
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - Kyung Hee University SW Membership | 04/2024~
 - Kyung Hee University SW OwnerShip | 04/2024~
 
-## Things I have Experienced
+## 🛠️ Things I have Experienced
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/a70be2b8-36f7-4f4f-a402-d0e4bd2c107d" width="100" height="100" alt="spring-color" />
   <img src="https://github.com/user-attachments/assets/338af49b-efca-454d-bbd6-f8fee3e66536" width="100" height="100" alt="springboot-color" />
