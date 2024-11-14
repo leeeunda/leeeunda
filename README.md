@@ -55,7 +55,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/user-attachments/assets/a85195df-d7a1-4c8a-91d4-0cbb105cc8a6" width="50" height="50" alt="grafana-color" />
 </div>
 
-<br> <br>
+<br>
 
 <a href="https://github.com/devxb/gitanimals">
 <img
