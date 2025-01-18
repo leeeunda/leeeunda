@@ -1,6 +1,5 @@
 # Hi there 👋 I'm leedaeun
 🏫 I'm a student in Department of **Computer Engineering** <br>
-👩🏻‍💻 I'm currently working on **BlockWaveLabs** As a **Server Developer** <br>
 📝 I'm interesting at **Server Development & InfraStructure** <br>
 <!--
 **leeeunda/leeeunda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
 -->
-  
+## 👩🏻‍💻 Work
+🏦 Industrial Bank of Korea as **EPMO Intern**| 01/2024~
+🌊 BlockWaveLabs as a Server Developer & Infra 
+
 ## 📚 Project
 
 - Kyung Hee University Department of Computer Engineering Project 🏆1st Place <Mumage>: Server Development
