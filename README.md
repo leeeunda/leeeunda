@@ -15,19 +15,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
 -->
-## 👩🏻‍💻Work
+## 👩🏻‍💻 Work
 - **Industrial Bank of Korea** 🏦 as EPMO Intern | 01/2025~
 - **BlockWaveLabs** 🌊 as a Server Developer & Infra Engineer | 08/2024~01/2025
 
-## 📚 Project
-
+## 🎖️ Prize
 - Kyung Hee University Department of Computer Engineering Project 🏆1st Place <Mumage>: Server Development
 - Clipper Union Project 🏆Grand Prize <Go집> Planning and Excellent Idea Selection & Server Lead
 - KyungHee University Hackathon 🏆The Top Awards <CiFarm> Team Leader & Server Lead
 - KyungHee Startup Idea Contest 🏆Creativity Award
-- KHUDA Machine Learning Toy Project <Life Expectancy Prediction System through Data Analysis>
-- 9ooroomton Univ 2nd Generation iOS App <자니..?> Idea Planning and Team Leader, Backend
-- KHUDA RecSys Project <ChecKhuMate> University Roommate Recomment Project FrontEnd, BackEnd
+- the Digital Social Innovation Service Development Contest 🏆2st Place
+- Capstone Design program 🏆1st Place at Summer School at Saarland University 
 
 ## 🏃‍♀️‍➡️ Activity
 
@@ -35,9 +33,9 @@ Here are some ideas to get you started:
 - **KUDA** Kyung Hee University AI & Data Analysis Club | 01/2024~06/2024
 - **9ooroomton Univ** 3nd Club leader, 2nd Gen Backend Member | 02/2024~11/2024
 - **UMC** 6th Server Part Study Leader | 03/2024~08/2024
-- **SW Volunteer Service Group** in Kyung Hee University | 03/2024~
-- **SW Membership** in Kyung Hee University  | 04/2024~
-- **SW OwnerShip** in Kyung Hee University | 04/2024~
+- **SW Volunteer Service Group** in Kyung Hee University | 03/2024~12/2024
+- **SW Membership** in Kyung Hee University  | 04/2024~12/2024
+- **SW OwnerShip** in Kyung Hee University | 04/2024~12/2024
 
 ## 🛠️ Things I have Experienced
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
