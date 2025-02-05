@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
 -->
-## 👩🏻‍💻 Work
+## 👩🏻‍💻Work
 - **Industrial Bank of Korea** 🏦 as EPMO Intern | 01/2025~
 - **BlockWaveLabs** 🌊 as a Server Developer & Infra Engineer | 08/2024~01/2025
 
