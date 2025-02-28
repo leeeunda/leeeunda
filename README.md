@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - Clipper Union Project 🏆Grand Prize <Go집> Planning and Excellent Idea Selection & Server Lead
 - KyungHee University Hackathon 🏆The Top Awards <CiFarm> Team Leader & Server Lead
 - KyungHee Startup Idea Contest 🏆Creativity Award
-- the Digital Social Innovation Service Development Contest 🏆2st Place
+- The Digital Social Innovation Service Development Contest 🏆2st Place
 - Capstone Design program 🏆1st Place at Summer School at Saarland University 
 
 ## 🏃‍♀️‍➡️ Activity
