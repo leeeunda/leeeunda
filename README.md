@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - **SW Volunteer Service Group** in Kyung Hee University | 03/2024~12/2024
 - **SW Membership** in Kyung Hee University  | 04/2024~12/2024
 - **SW OwnerShip** in Kyung Hee University | 04/2024~12/2024
+- **AWS Cloud Club** in Kyung Hee University | 02/2025~
 
 ## 🛠️ Things I have Experienced
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
