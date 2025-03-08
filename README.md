@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ..
 -->
 ## 👩🏻‍💻 Work
-- **Industrial Bank of Korea** 🏦 as EPMO Intern | 01/2025~
+- **Industrial Bank of Korea** 🏦 as EPMO Intern | 01/2025~02/2025
 - **BlockWaveLabs** 🌊 as a Server Developer & Infra Engineer | 08/2024~01/2025
 
 ## 🎖️ Prize
