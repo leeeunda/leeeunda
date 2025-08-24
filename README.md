@@ -1,4 +1,4 @@
-# Hi there 👋 I'm leedaeun
+# Hi there 👋 I'm Daeun Lee
 🏫 I'm a student in Department of **Computer Engineering** <br>
 📝 I'm interesting at **BackEnd Development & InfraStructure** <br>
 <!--
