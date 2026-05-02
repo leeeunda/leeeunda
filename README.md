@@ -40,7 +40,22 @@ Here are some ideas to get you started:
 - **AWS Cloud Club** in Kyung Hee University | 02/2025~
 
 ## 🛠️ Things I have Experienced
-<p align="left"><img src="https://github.com/user-attachments/assets/a70be2b8-36f7-4f4f-a402-d0e4bd2c107d" width="50" height="50" alt="spring-color" /> <img src="https://github.com/user-attachments/assets/338af49b-efca-454d-bbd6-f8fee3e66536" width="50" height="50" alt="springboot-color" /> <img src="https://github.com/user-attachments/assets/610f0d7b-1c33-4c15-ab76-c4783e10c072" width="50" height="50" alt="typescript-color" /> <img src="https://github.com/user-attachments/assets/1094fb42-ab6b-498e-b1d3-c1331fe620e2" width="50" height="50" alt="nodedotjs-color" /> <img src="https://github.com/user-attachments/assets/736a0379-8215-49e7-ae6b-3528b8b50dbe" width="50" height="50" alt="docker-color" /> <img src="https://github.com/user-attachments/assets/945c7eb7-f43e-4b05-96f2-45a42bc824eb" width="50" height="50" alt="kubernetes-color" /> <img src="https://github.com/user-attachments/assets/89b88581-eaea-4678-8f11-f4a0940b73c8" width="50" height="50" alt="redis-color" /> <img src="https://github.com/user-attachments/assets/64b10fef-be5c-494a-ad35-ac7f57ac4874" width="50" height="50" alt="graphql-color" /> <img src="https://github.com/user-attachments/assets/4fc90b92-ded2-4273-a7e9-9863372a4b3d" width="50" height="50" alt="amazonwebservices-color" /> <img src="https://github.com/user-attachments/assets/4d1e9483-2a29-4cdf-81aa-eb947d67f0f1" width="50" height="50" alt="githubactions-color" /> <img src="https://github.com/user-attachments/assets/30b5543a-8713-4d9c-8d78-c4158c3a20e4" width="50" height="50" alt="gradle-color" /> <img src="https://github.com/user-attachments/assets/2228dd88-45c8-417f-9704-d3ef3a04eb51" width="50" height="50" alt="awsamplify-color" /> <img src="https://github.com/user-attachments/assets/32464a38-2848-4f60-8b94-a274a72b4e99" width="50" height="50" alt="prometheus-color" /> <img src="https://github.com/user-attachments/assets/a85195df-d7a1-4c8a-91d4-0cbb105cc8a6" width="50" height="50" alt="grafana-color" /></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS_Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+</p>
 
 <br>
 
